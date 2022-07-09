@@ -1,0 +1,12 @@
+npx create-next-app spotify-2-yt
+npm install with-tailwindcss
+npm install @heroicons/react
+npm install next-auth@beta
+
+spotify web api node
+https://github.com/thelinmichael/spotify-web-api-node
+$ npm install spotify-web-api-node --save
+
+
+Refresh Token Rotation
+https://auth0.com/docs/secure/tokens/refresh-tokens/refresh-token-rotation#:~:text=Refresh%20token%20rotation%20is%20a,shorter%2Dlived%20access%20tokens%20expire.
