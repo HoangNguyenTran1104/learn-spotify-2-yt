@@ -10,3 +10,10 @@ $ npm install spotify-web-api-node --save
 
 Refresh Token Rotation
 https://auth0.com/docs/secure/tokens/refresh-tokens/refresh-token-rotation#:~:text=Refresh%20token%20rotation%20is%20a,shorter%2Dlived%20access%20tokens%20expire.
+
+
+
+
+
+img
+https://vi.cleanpng.com/png-ojav6y/download-png.html
